@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hyegen&label=Profile%20views&color=0e75b6&style=flat" alt="hyegen" /> </p>
 
-- 🔭 I’m currently working on [YGN.Store.Management.Desktop](https://github.com/hyegen/YGN.Store.Management.Desktop)
+- 🔭 I’m currently working on [YGN.Store.Management.Desktop](https://github.com/hyegen/YGN.Store.Management.Desktop) & [YGN.Store.Management.Mobile](https://github.com/hyegen/YGN.Store.Management.Mobile)
 
 - 💬 Ask me about **.NET, C#, MS-SQL**
 
