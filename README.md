@@ -6,6 +6,8 @@
 
 - Currently working on [YGN.Store.Management.Desktop](https://github.com/hyegen/YGN.Store.Management.Desktop) & [YGN.Store.Management.Mobile](https://github.com/hyegen/YGN.Store.Management.Mobile)
 
+- Currently learning Flutter
+
 - **hyegen205@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
